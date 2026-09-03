@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sughra Batool</h1>
-<h3 align="center">Computer Science Student | Professional React & Frontend Developer</h3>
+<h3 align="center">Computer Science Graduate | Professional React & Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-brightgreen?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Frontend%20Development-blue?style=for-the-badge&logo=react" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Frontend%20Architecture-blue?style=for-the-badge&logo=react" alt="Focus" />
 </p>
 
 ---
 
 ### 🚀 About Me
-* 🎓 Computer Science Graduate / Student.
-* 💻 Professional Frontend Developer with strong expertise in **React.js**, specializing in building modern, responsive, high-performance, and user-friendly web applications.
-* 🧠 Creator of **GlobeMind AI Travel Planner** (Advanced Project).
-* 🎯 **Career Goal:** To leverage my frontend skills and project experience to grow as a professional Full Stack Developer.
+* 🎓 **BS Computer Science Graduate** from the **University of Central Punjab (UCP)**.
+* 💻 Professional Frontend Developer with specialized expertise in **React.js**, crafting high-performance, scalable, and responsive web architectures.
+* 🧠 Creator of advanced applications, notably **GlobeMind AI Travel Planner**, focusing on sleek dark-mode UI/UX and seamless state management.
+* 🎯 **Career Trajectory:** Bridging creative design with clean code to build impactful digital products, with aspirations toward full-stack mastery.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Ecosystem
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -35,32 +35,36 @@
 ### 🌟 Featured Projects
 
 * **✈️ GlobeMind AI Travel Planner**  
-  * *Description:* A multi-page interactive React web application custom-built for AI-powered travel planning featuring dark glowing tech aesthetics and smooth navigation.
+  * *Tech:* React, Tailwind CSS, AI Integration  
+  * *Description:* A multi-page interactive web application custom-built for AI-powered travel planning, featuring immersive dark glowing tech aesthetics and smooth cross-page routing.
   
 * **👗 SB Boutique**  
-  * *Description:* A stylish clothing and fashion web application designed using Bootstrap for a responsive and elegant online boutique experience.
+  * *Tech:* Bootstrap, HTML5, CSS3  
+  * *Description:* A modern, elegant fashion and clothing e-commerce interface designed with responsive grids for an optimal digital shopping experience.
 
 * **☁️ Weather Prediction App**  
-  * *Description:* An application designed to fetch and display weather data and forecasts.
+  * *Tech:* JavaScript, APIs  
+  * *Description:* A dynamic weather forecasting application that fetches real-time meteorological data and displays precise atmospheric conditions.
 
 * **📊 Sentiment Analysis App**  
-  * *Description:* An analytical application built to evaluate text sentiment and process data inputs.
-
-* **☕ Second Cup Coffee**  
-  * *Description:* A modern, stylish coffee shop website built using React.
+  * *Tech:* Python, Data Processing  
+  * *Description:* An analytical dashboard engineered to evaluate textual data sentiment and process input strings efficiently.
 
 * **🏥 Amina Abdullah Hospital (CareFlow HMS)**  
-  * *Description:* A responsive hospital management system interface built for tracking patient, doctor, and appointment data.
+  * *Tech:* Frontend Architecture  
+  * *Description:* A robust multi-page hospital management system layout designed for tracking patients, doctors, and critical appointment data.
 
-* **🎓 University of Central Punjab Website**  
-  * *Description:* A responsive university portal interface developed using React.
+* **☕ Second Cup Coffee**  
+  * *Tech:* React  
+  * *Description:* A sleek, component-driven coffeehouse web application built with modern UI patterns.
 
-* **💡 Interactive Bulb & Calculator Apps**  
-  * *Description:* Core coding practice projects featuring a functional digital calculator and an interactive coding-based light bulb toggle app.
+* **🎓 University Portal & Practice Apps**  
+  * *Tech:* React, JavaScript, HTML/CSS  
+  * *Description:* Academic web interfaces alongside utility tools including a functional digital calculator and interactive light bulb toggle scripts.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sughracodes&show_icons=true&theme=tokyonight&hide_border=true" alt="Sughra's GitHub Stats" />
 </p>
@@ -71,4 +75,4 @@
 * 🐙 **GitHub:** [https://github.com/sughracodes](https://github.com/sughracodes)
 * 📧 **Email:** [sughrabatoolkhanum@gmail.com](mailto:sughrabatoolkhanum@gmail.com)
 
-<p align="center">⭐ Thank you for visiting my GitHub profile! Let's build something amazing together.</p>
+<p align="center">⭐ Thank you for stopping by my GitHub profile. Let's build something exceptional together!</p>
