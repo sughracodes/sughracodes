@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sughra Batool</h1>
-<h3 align="center">Computer Science Student | Frontend Developer</h3>
+<h3 align="center">Computer Science Student | Professional React & Frontend Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-brightgreen?style=for-the-badge" alt="Status" />
@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 * 🎓 Computer Science Graduate / Student.
-* 💻 Passionate Frontend Developer specializing in building modern, responsive, and user-friendly web applications.
+* 💻 Professional Frontend Developer with strong expertise in **React.js**, specializing in building modern, responsive, high-performance, and user-friendly web applications.
 * 🧠 Creator of **GlobeMind AI Travel Planner** (Advanced Project).
-* 🎯 **Career Goal:** To become a professional Full Stack Developer by building scalable and interactive applications.
+* 🎯 **Career Goal:** To leverage my frontend skills and project experience to grow as a professional Full Stack Developer.
 
 ---
 
@@ -37,6 +37,9 @@
 * **✈️ GlobeMind AI Travel Planner**  
   * *Description:* A multi-page interactive React web application custom-built for AI-powered travel planning featuring dark glowing tech aesthetics and smooth navigation.
   
+* **👗 SB Boutique**  
+  * *Description:* A stylish clothing and fashion web application designed using Bootstrap for a responsive and elegant online boutique experience.
+
 * **☁️ Weather Prediction App**  
   * *Description:* An application designed to fetch and display weather data and forecasts.
 
