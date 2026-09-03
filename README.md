@@ -38,6 +38,10 @@
   * *Tech:* React, Tailwind CSS, AI Integration  
   * *Description:* A multi-page interactive web application custom-built for AI-powered travel planning, featuring immersive dark glowing tech aesthetics and smooth cross-page routing.
   
+* **☕ Brew Heaven**  
+  * *Tech:* WordPress, Elementor  
+  * *Description:* A professional and visually stunning restaurant and cafe website designed with custom layouts for an exceptional user browsing experience.
+
 * **👗 SB Boutique**  
   * *Tech:* Bootstrap, HTML5, CSS3  
   * *Description:* A modern, elegant fashion and clothing e-commerce interface designed with responsive grids for an optimal digital shopping experience.
